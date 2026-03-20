@@ -73,5 +73,14 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-*.log
-*.ini
+
+Build_Output/Windows/Jenkins_Test/Saved/Logs/Jenkins_Test.log
+Build_Output/Windows/Jenkins_Test/Saved/Logs/Jenkins_Test-backup-2026.03.20-07.12.19.log
+Build_Output/Windows/Jenkins_Test/Saved/Logs/Jenkins_Test-backup-2026.03.20-07.05.12.log
+Build_Output/Windows/Jenkins_Test/Saved/Logs/Jenkins_Test-backup-2026.03.20-05.43.00.log
+Build_Output/Windows/Jenkins_Test/Saved/Config/Windows/GameUserSettings.ini
+Build_Output/Windows/Jenkins_Test/Saved/Config/CrashReportClient/UECC-Windows-D727755B49796CFFECCF069D106E9389/CrashReportClient.ini
+Build_Output/Windows/Jenkins_Test/Saved/Config/CrashReportClient/UECC-Windows-680994DE4EFF8A99548F45B83243955D/CrashReportClient.ini
+Build_Output/Windows/Jenkins_Test/Saved/Config/CrashReportClient/UECC-Windows-617D2E4445BCF461C9F26D989CF4C27F/CrashReportClient.ini
+Build_Output/Windows/Jenkins_Test/Saved/Config/CrashReportClient/UECC-Windows-56D2789F49F6DD4C8EA12C9216189343/CrashReportClient.ini
+Build_Output/Windows/Engine/Saved/Config/Windows/Manifest.ini
